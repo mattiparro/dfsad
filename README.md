@@ -1,8 +1,2 @@
 # dfsad
-kjfd,shjgkds,mfhgkjds,mhgdkjs,m 
-
-
-
-
-
-parro
+kjfd,shjgkds,mfhgkjds,mhgdkjs,m
